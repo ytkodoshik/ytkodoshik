@@ -12,7 +12,6 @@ I am an ambitious Cybersecurity Engineering student at the University of Nationa
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **🛡️ Security Tools** | Nmap, Wireshark, Metasploit, Burp Suite, Nessus, OpenVAS, Splunk, ELK Stack |
 | **💻 Programming** | Python (Scapy), PowerShell, C/C++ (Basic), SQL, Bash |
 | **☁️ Cloud & OS** | Google Cloud, AWS (Basics), Windows Server (AD, Hardening), Linux |
 | **🌐 Networking** | Cisco Networking, GNS3, Routing Protocols (RIP, OSPF) |
