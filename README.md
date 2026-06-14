@@ -35,7 +35,7 @@ I am an ambitious Cybersecurity Engineering student at the University of Nationa
 
 ### 🗣️ Languages
 * 🇵🇱 **Polish:** Advanced (C1)
-* 🇬🇧 **English:** Advanced (C1)
+* 🇬🇧 **English:** Upper-intermediate (B2)
 * 🇺🇦 **Ukrainian:** Native (C2)
 * 🇷🇺 **Russian:** Native (C2)
 
